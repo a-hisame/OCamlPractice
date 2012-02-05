@@ -10,3 +10,4 @@ let test2 = crain_totoise 8 2 = (2, 0)
 
 let test3 = crain_totoise 4 2 = (0, 2)
 
+let test4 = crain_totoise 0 0 = (0, 0)
